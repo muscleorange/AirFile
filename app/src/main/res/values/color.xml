@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_info">#bed8579d</color>
+    <color name="url_adrr">#ffffff</color>
+    <color name="tip_msg">#ffafb9b6</color>
+    <color name="start_stop_btn_txt">#ffffff</color>
+</resources>

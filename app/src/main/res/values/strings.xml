@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AireFile</string>
+    <string name="main_info">请用浏览器访问下面地址</string>
+    <string name="url_addr_init">服务未开启</string>
+    <string name="url_addr_nowifi">没有wifi信号</string>
+    <string name="tip_msg">确保您的手机和PC在同一局域网，上传过程中请勿退出程序。</string>
+    <string name="start">开启服务</string>
+    <string name="stop">关闭服务</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
